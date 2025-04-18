@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    background: #fafafa;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #controls {
+    margin: 20px 0;
+  }
+  
+  #summary {
+    margin-bottom: 20px;
+    background: #f0f8ff;
+    padding: 10px;
+    border-radius: 8px;
+  }
+  
+  #summary h2 {
+    margin-top: 0;
+  }
+  
